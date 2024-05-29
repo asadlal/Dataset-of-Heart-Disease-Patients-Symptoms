@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive dataset of patient symptoms related to heart disease. The dataset is designed to be used for research and educational purposes, particularly in the field of machine learning and data analysis for heart disease prediction. The data was sourced from a well-known cardiology hospital and includes various health indicators.
+This repository contains a comprehensive dataset of patient symptoms related to heart disease. The dataset is designed to be used for research and educational purposes, particularly in the field of machine learning and data analysis for heart health prediction.
 
 ## Dataset Description
 
